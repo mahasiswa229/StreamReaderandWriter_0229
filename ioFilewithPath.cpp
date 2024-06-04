@@ -8,7 +8,7 @@ int main()
 {
     string baris;
     string namafile;
-    cout << "Masukan Nama file";
+    cout << "Masukan Nama file:";
     cin >> namafile;
 
     ofstream outfile;
