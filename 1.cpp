@@ -12,6 +12,9 @@ int main()
 
     cout << ">=Menulis File, \'q\' untuk keluar" << endl;
 
-    
+    while(true)
+    {
+        
+    }
 
 }
