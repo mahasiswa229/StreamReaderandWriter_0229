@@ -8,6 +8,10 @@ int main()
 {
     string baris;
     ofstream outfile;
+    outfile.open("contohfile.txt");
+
+    cout << ">=Menulis File, \'q\' untuk keluar" << endl;
+
     
 
 }
